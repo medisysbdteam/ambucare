@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Ambucare</string>
+    <string name="logo">Ambucare</string>
+    <string name="ambucare">AMBUCARE</string>
+    <string name="manage">MANAGEMENT SYSTEM</string>
+    <string name="user_tips">User Tips</string>
+    <string name="user_tips_1st_line">* To Change Password Press "F9"</string>
+    <string name="user_tips_2nd_line">* Remember to logout before leaving your workstation</string>
+    <string name="user_tips_3rd_line">* if you don\'t Enter your ID Password in less than 2 Min !\n your session will be logged out.</string>
+    <string name="product_license">Product License</string>
+    <string name="product_details">This Product is Licensed to:\n King Saud Medical City\n Licence Code : 1127-58</string>
+    <string name="star">*</string>
+    <string name="warning">Warning:</string>
+    <string name="warning_details">This product is protected by copyright law and international treaties.Unauthorized
+reproduction or distribution of this programe or any portion of it may result in servere civil and criminal planalties
+and will be procsecuted to the maximum extent possible under the law.</string>
+    <string name="medicalsystem">Medical Systems Co.LTD, All Rights Reserved (Version : 12.5.0)</string>
+    <string name="logIn_name">Login</string>
+    <string name="logOut_name">Logout</string>
+
+
+    <string name="api_v1">mis.mascoknit.com:8095//api//v1//TService//</string>
+    <string name="api_v1_get_data">
+    \u0068\u0074\u0074\u0070\u003a\u002f\u002f\u006d\u0069\u0073\u002e\u006d\u0061\u0073\u0063\u006f\u006b\u006e\u0069\u0074\u002e\u0063\u006f\u006d\u003a\u0038\u0030\u0039\u0035\u002f\u0061\u0070\u0069\u002f\u0076\u0031\u002f\u0054\u0053\u0065\u0072\u0076\u0069\u0063\u0065\u002f\u0047\u0065\u0074\u0044\u0061\u0074\u0061\u002f
+    </string>
+    <!--<string name="api_v1_get_data">-->
+    <!--\u0068\u0074\u0074\u0070\u003a\u002f\u002f\u0031\u0039\u0032\u002e\u0031\u0036\u0038\u002e\u0032\u002e\u0037\u0032\u002f\u0054\u0057\u0065\u0062\u0041\u0070\u0069\u0053\u0065\u0061\u0072\u0063\u0068\u002f\u0061\u0070\u0069\u002f\u0076\u0031\u002f\u0054\u0053\u0065\u0072\u0076\u0069\u0063\u0065\u002f\u0047\u0065\u0074\u0044\u0061\u0074\u0061-->
+    <!--</string>-->
+    <string name="api_v1_save_data">mis.mascoknit.com:8095//api//v1//TService//SetData</string>
+
+    <string name="DB_ControlPanal">ControlPanal</string>
+    <string name="DB_DB_MASCOGROUP">DB-MASCOGROUP</string>
+    <string name="DB_MerchandisingDB">MerchandisingDB</string>
+    <string name="DB_SCM">SCM</string>
+    <string name="DB_PatientCare">PatientCare</string>
+    <string name="Pref">MisterT</string>
+    <string name="pref_login_data">login_data</string>
+
+    <!--sp-->
+    <string name="update_location">usp_m_set_location</string>
+    <string name="get_po">usp_m_get_po</string>
+    <!--sp-->
+    <!--keys-->
+    <string name="google_map_key">AIzaSyC7UKI8yiVrzUllwLS3V2_b-H5Mor54KGc</string>
+
+
+    <!--<string name="title_activity_maps">Current Place Details on Map</string>-->
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_auth">Welcome to Phone Authentication</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Phone Number</string>
+    <string name="prompt_password">Verification Code</string>
+    <string name="action_sign_in">SEND VERIFICATION</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="mobileno">Mobile No</string>
+    <!--<string name="email">Email</string>
+    <string name="gender">Gender</string>-->
+    <string name="nationality">Nationality</string>
+    <string name="religion">Religion:</string>
+    <string name="maritial_status">M/Status:</string>
+    <string name="submit_name">Submit</string>
+
+    <!--registration-->
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="password">Password</string>
+    <string name="password_again">Password Again</string>
+    <string name="email">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="gender">Gender : </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="unknown">Unknown</string>
+    <string name="single_name">Single</string>
+    <string name="married_name">Married</string>
+    <string name="unknown_married_name">Unknown</string>
+    <string name="register">Register</string>
+    <string name="register_form_text">You need to fill up below register form.</string>
+    <string name="no_field_can_be_empty">No field can be empty</string>
+    <string name="passwords_must_be_the_same">Password and password again field must be the same</string>
+    <string name="here_is_values">Here is values: %1$s</string>
+
+    <!--validation-->
+    <string name="validation_name">Form Validation</string>
+    <string name="first_name_error">Please enter First valid name</string>
+    <string name="last_name_error">Please enter Last valid name</string>
+    <string name="emailerror">Please enter valid Email</string>
+    <string name="mobileerror">Please enter valid Mobile Number</string>
+    <string name="nationalityerror">Please enter Nationality</string>
+    <string name="birthdateerror">Please enter Date of Birth</string>
+</resources>

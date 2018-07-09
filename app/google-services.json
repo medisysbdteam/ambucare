@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573810178506",
+    "firebase_url": "https://ambucare-cf7a2.firebaseio.com",
+    "project_id": "ambucare-cf7a2",
+    "storage_bucket": "ambucare-cf7a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573810178506:android:26f54f0e3d8f805e",
+        "android_client_info": {
+          "package_name": "co.system.medical.ambucare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573810178506-ore6tju6osfura5n58ci652dce47eji4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.system.medical.ambucare",
+            "certificate_hash": "7d5127e4b23b2dcc9f35d654af79a798b3d95912"
+          }
+        },
+        {
+          "client_id": "573810178506-jefqk92nuu063b6j6u10nm0ah7nojijt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQle22DfVTA6PR93jdpW-1q-vXIAIYSDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573810178506-jefqk92nuu063b6j6u10nm0ah7nojijt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

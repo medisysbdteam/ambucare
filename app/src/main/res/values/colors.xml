@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f21e1e</color>
+    <color name="colorPrimaryDark">#c12d2d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ambucareColor">#c12d2d</color>
+    <color name="managementColor">#7a7a7a</color>
+    <color name="gray_color">#F7F7F7</color>
+
+    <color name="view_background">#008000</color>
+    <color name="btn_bg">#008000</color>
+    <color name="white">#ffffff</color>
+    <color name="txt_font">#4e5572</color>
+    <color name="action_bar">#49261f</color>
+</resources>
